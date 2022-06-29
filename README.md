@@ -1,18 +1,10 @@
 # PyChain Ledger
 ![image](https://user-images.githubusercontent.com/98672852/176558491-342db6d4-e08a-486c-a34a-69ebc4b07077.png)
 
-For this projec, we will act as a fintech engineer who’s working at one of the five largest banks in the world. 
-I will act as the lead developer on a decentralized finance team. My task is to build a blockchain-based ledger system, complete with a user-friendly web interface. This ledger should allow partner banks to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
-I will make the following updates to the provided Python file for this assignment, which already contains the basic PyChain ledger structure that you created throughout the module:
+For this project, we will act as a fintech engineer and lead developer on a decentralized finance team. My goal is to build a blockchain-based ledger system, complete with a user-friendly web interface. This ledger will allow partner banks to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
+In order to create our blockchain and shared ledger, I will be using Python to create new data class for a Block, Record and a Pychain. I will also add the proof of work logic along with the difficuly that can be modified by the user.
 
 
-Create a new data class named Record. This class will serve as the blueprint for the financial transaction records that the blocks of the ledger will store.
+Our code will be publiished through StreamLit to verify the block contents and hashes in the built-in dropdown menu. 
 
-
-Modify the existing Block data class to store Record data.
-
-
-Add Relevant User Inputs to the Streamlit interface.
-
-
-Test the PyChain Ledger by Storing Records.
+Lastl, we will test the blockchain validation process by using the web interface as shown in the screenshot below.
