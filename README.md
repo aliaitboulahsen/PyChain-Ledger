@@ -12,3 +12,12 @@ Our code will be published through StreamLit to verify the block contents and ha
 Lastly, we will test the blockchain validation process by using the web interface as shown in the screenshot below.
 
 ![image](https://user-images.githubusercontent.com/98672852/176562012-73b8ffa3-45d5-4229-8ce2-f4af88c1d12f.png)
+
+Libraries & Technologies used for this project:
+
+- Python
+- Jupyter Lab
+- Streamlit
+- Datetime
+- Pandas 
+- Hashlib
