@@ -1,4 +1,5 @@
-# PyChain-Ledger
+# PyChain Ledger
+![image](https://user-images.githubusercontent.com/98672852/176558491-342db6d4-e08a-486c-a34a-69ebc4b07077.png)
 
 For this projec, we will act as a fintech engineer who’s working at one of the five largest banks in the world. 
 I will act as the lead developer on a decentralized finance team. My task is to build a blockchain-based ledger system, complete with a user-friendly web interface. This ledger should allow partner banks to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
